@@ -1,0 +1,7 @@
+Main Font Font: Signika Bold
+Main Font Color: #fff
+Slogan Font Font: Avenir
+Slogan Font Color: #fff
+Monogram Font Font: Questa Sans Black
+Monogram Font Color: #282c45
+Container Color: #fff
